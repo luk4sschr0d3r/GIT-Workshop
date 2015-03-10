@@ -1,0 +1,8 @@
+<apex:page controller="Test">
+
+<apex:form >
+<apex:commandButton action="{!test}" value="test">
+</apex:commandButton>
+</apex:form>
+
+</apex:page>
